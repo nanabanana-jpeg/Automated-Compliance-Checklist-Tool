@@ -16,4 +16,4 @@ This Python tool checks system compliance with basic security requirements like 
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/security-compliance-checklist.git
+   git clone https://github.com/nanabanana-jpeg/security-compliance-checklist.git
